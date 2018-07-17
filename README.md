@@ -1,2 +1,2 @@
-# IOS_Wifi_Config
-wifi config
+# IOS_AP_Wifi_Config
+AP wifi config
